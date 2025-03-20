@@ -1,5 +1,4 @@
 ﻿using System.Configuration;
-using System.Data.Common;
 
 namespace Coding_Tracker
 {

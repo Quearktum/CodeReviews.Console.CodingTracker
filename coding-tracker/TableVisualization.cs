@@ -1,4 +1,3 @@
-using Coding_Tracker;
 using ConsoleTableExt;
 internal class TableVisualization
 {

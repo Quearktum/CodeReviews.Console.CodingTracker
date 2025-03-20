@@ -1,4 +1,3 @@
-using Coding_Tracker;
 using Microsoft.Data.Sqlite;
 
 internal class DatabaseManager

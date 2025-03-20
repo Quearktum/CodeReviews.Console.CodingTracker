@@ -1,6 +1,4 @@
-using System.ComponentModel.DataAnnotations.Schema;
 using System.Configuration;
-using Coding_Tracker;
 using Microsoft.Data.Sqlite;
 internal class CodingController
 {
