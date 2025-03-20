@@ -1,10 +1,8 @@
-﻿using System.Configuration;
-
-namespace Coding_Tracker
+﻿namespace Coding_Tracker
 {
      internal class Program
     {
-        static string connectionString = ConfigurationManager.AppSettings.Get("ConnectionString");
+        static string connectionString = System.Configuration.ConfigurationManager.AppSettings.Get("ConnectionString");
         static void Main(string[] args)
         {
 
